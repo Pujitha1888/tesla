@@ -1,0 +1,470 @@
+body {
+    overflow-x: hidden;
+}
+
+.a {
+    margin-left: 60px;
+    margin-top: 40px;
+}
+
+.b {
+    display: flex;
+    justify-content: space-around;
+}
+
+.b ul {
+    display: flex;
+    list-style: none;
+}
+
+.b ul li {
+    margin-left: 50px;
+    font-size: 23px;
+    margin-top: -65px;
+}
+
+.icon {
+    font-size: 25px;
+    margin-left: 1030px;
+    margin-top: -80px;
+    position: relative;
+}
+
+.icon:hover {
+    transform: scale(1.19);
+    transition: 2sec;
+}
+
+.icon i {
+    margin: 0px 4px;
+
+}
+
+.main1 {
+    background: url(https://stimg.cardekho.com/images/carexteriorimages/930x620/Tesla/Model-3/5251/1693556345148/front-left-side-47.jpg);
+    position: relative;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 590px;
+    margin-top: -40px;
+    /* border: 2px solid red; */
+    height: 600px;
+    width: 100%;
+}
+
+button {
+    height: 40px;
+    width: 25%;
+    margin-top: 250px;
+
+}
+
+.c {
+    margin-left: 350px;
+    margin-top: 320px;
+}
+
+.c:hover {
+    background-color: black;
+    color: white;
+}
+
+.d {
+    background-color: black;
+    color: white;
+}
+
+.d:hover {
+    background-color: white;
+    color: black;
+}
+
+.main2 {
+    background: url("https://electrek.co/wp-content/uploads/sites/3/2022/05/2022-Tesla-prices.jpg?quality=82&strip=all");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 1000px;
+    margin-top: -220px;
+    position: absolute;
+}
+
+.e {
+    margin-left: 330px;
+    margin-top: 280px;
+    background-color: black;
+    color: white;
+}
+
+.main2 h1 h2 {
+    position: relative;
+}
+
+.main3 {
+    background: url("https://tsportline.com/cdn/shop/files/metallic-mamba-green-tesla-model-x-t-largo-wide-body-package-gloss-black-22-inch-aftermarket-wheels-wm-2_1600x.jpg?v=1680722033");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 490px;
+    position: absolute;
+}
+
+.g {
+    margin-left: 330px;
+    margin-top: 350px;
+    background-color: black;
+    color: white;
+}
+
+.main3 h1 h2 {
+    position: relative;
+}
+
+.main4 {
+    background: url("https://ev-database.org/img/auto/Tesla_Model_S_2016/Tesla_Model_S_2016-01@2x.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 1090px;
+    position: absolute;
+}
+
+.i {
+    margin-left: 330px;
+    margin-top: 410px;
+    background-color: black;
+    color: white;
+}
+
+.main4 h1 h2 {
+    position: relative;
+}
+
+.main5 {
+    background: url("https://www.carscoops.com/wp-content/uploads/2023/09/tesla-model-2.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 700px;
+    margin-top: 1680px;
+    position: absolute;
+}
+
+.k {
+    margin-left: 330px;
+    margin-top: 450px;
+    background-color: black;
+    color: white;
+}
+
+.main5 h1 h2 {
+    position: relative;
+}
+
+.main6 {
+    background: url("https://www.solarreviews.com/content/images/blog/teslacar.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 2350px;
+    position: absolute;
+}
+
+.m {
+    margin-left: 330px;
+    margin-top: 417px;
+    background-color: black;
+    color: white;
+}
+
+.main6 h1 h2 {
+    position: relative;
+}
+
+.main7 {
+    background: url("https://assets.greentechmedia.com/assets/content/cache/made/assets/content/cache/remote/https_assets.greentechmedia.com/content/images/articles/home_powerwall_2_Tesla_XL_721_420_80_s_c1.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 2950px;
+    position: absolute;
+}
+
+.o {
+    margin-left: 330px;
+    margin-top: 440px;
+    background-color: black;
+    color: white;
+}
+
+.main7 h1 h2 {
+    position: relative;
+}
+
+.main8 {
+    background: url("https://www.tesla-mag.com/wp-content/uploads/sites/2/2024/04/Top-of-the-best-accessories-for-Tesla-Model-S.jpg");
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+    height: 600px;
+    margin-top: 2950px;
+    position: absolute;
+}
+
+.q {
+    margin-left: 100px;
+    margin-top: 330px;
+
+}
+
+.main8 h1 {
+    position: relative;
+}
+
+.foot {
+    /* border: 2px solid red; */
+    width: 100%;
+    height: 480px;
+    margin-top: 20px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.main9 {
+    /* border: 2px solid red;  */
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    margin-top: -15px;
+
+}
+
+.main9 ul li {
+    float: left;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.main9 li {
+    margin-left: 50px;
+}
+
+.dropdown {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: aliceblue;
+    padding: 150px 100px 50px;
+    z-index: -1;
+    transform: translateY(-100%);
+    transition: transform .5s linear;
+}
+
+.navbar {
+    position: relative;
+    z-index: 10;
+}
+
+.drop {
+    float: left;
+
+}
+
+.drop img {
+    margin-top: -50px;
+    margin-left: 10px;
+}
+
+.but0 {
+    font-size: 15px;
+    margin-left: 70px;
+    margin-left: 70px;
+    margin-top: -5px;
+}
+
+.but {
+    height: 25px;
+    width: 120px;
+    margin-top: -100px;
+    background-color: black;
+    color: white;
+}
+
+.drop1 {
+    float: left;
+
+}
+
+.drop1 img {
+    margin-top: -50px;
+    margin-left: 60px;
+}
+
+.drop1 .but1 {
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: -5px;
+}
+
+.but2 {
+    height: 25px;
+    width: 120px;
+    margin-top: -100px;
+    margin-left: 60px;
+    background-color: black;
+    color: white;
+}
+
+.drop2 img {
+    margin-top: -50px;
+    margin-left: 60px;
+}
+
+.but3 {
+    font-size: 15px;
+    margin-left: 690px;
+    margin-top: -5px;
+}
+
+.but4 {
+    height: 25px;
+    width: 120px;
+    margin-top: -100px;
+    margin-left: 20px;
+    background-color: black;
+    color: white;
+}
+
+.drop3 img {
+    margin-top: 40px;
+    margin-left: 10px;
+}
+
+.but5 {
+    font-size: 15px;
+    margin-left: 70px;
+    margin-left: 70px;
+    margin-top: -5px;
+}
+
+.but6 {
+    height: 25px;
+    width: 120px;
+    margin-top: -100px;
+    background-color: black;
+    color: white;
+}
+
+.drop3 {
+    float: left;
+}
+
+.drop4 img {
+    margin-top: 40px;
+    margin-left: 30px;
+}
+
+.but7 {
+    font-size: 15px;
+    margin-left: 350px;
+
+    margin-top: -5px;
+}
+
+.but8 {
+    height: 25px;
+    width: 120px;
+    margin-top: -100px;
+    background-color: black;
+    color: white;
+}
+
+.b ul li:hover > .dropdown{
+    transform: translateY(0);
+}
+.dropdown1 {
+    position: absolute;
+    width: 100%;
+    top: 0;
+    left: 0;
+    background-color: aliceblue;
+    padding: 150px 100px 50px;
+    z-index: -1;
+    transform: translateY(-100%);
+    transition: transform .5s linear;
+    text-align: center;
+   
+}
+.b ul li:hover > .dropdown1{
+    transform: translateY(0);
+}
+
+
+
+
+
+
+
+
+
+
+.ab img{
+    margin-top: -50px;
+}
+.ab1{
+    height: 30px;
+    width: 105px;
+    margin-top: -250px;
+}
+.ab{
+    float: left;
+}
+.ab2 img{
+    margin-top: -50px;
+}
+.ab3{
+    height: 30px;
+    width: 105px;
+    margin-top: -250px;
+}
+.ab2{
+    float: left;
+}
+.ab4 img{
+    margin-top: -50px;
+    margin-left: 100px;
+}
+.ab5{
+    height: 30px;
+    width: 105px;
+    margin-top: -250px;
+  
+}
+.ab4
+{
+    float: left;
+}
